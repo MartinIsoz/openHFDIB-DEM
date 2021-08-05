@@ -1,7 +1,13 @@
 # openHFDIB-DEM
 
 Implementation of the Hybrid Fictitious Domain-Immersed Boundary (HFDIB)
-coupled with the Discrete Element Method (DEM)
+coupled with the Discrete Element Method (DEM) by
+
+Martin Isoz         (https://github.com/MartinIsoz)
+Martin Šourek       (https://github.com/MSourek)
+Ondřej Studeník     (https://github.com/OStudenik)
+and
+Petr Kočí           (http://vscht.cz//monolith/)
 
 Initial HFDIB implementation spans from
 
