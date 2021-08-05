@@ -1,0 +1,17 @@
+geomModels/geomModel.C
+geomModels/stlBased/stlBased.C
+geomModels/stlBased/convexBody.C
+geomModels/stlBased/nonConvexBody.C
+geomModels/shapeBased/shapeBased.C
+geomModels/shapeBased/sphereBody.C
+contactModels/contactInfo.C
+contactModels/wallInfo.C
+addModels/addModel.C
+addModels/addModelOnce.C
+addModels/addModelOnceScatter.C
+addModels/addModelRepeatSamePosition.C
+addModels/addModelRepeatRandomPosition.C
+addModels/addModelDistribution.C
+immersedBody.C
+openHFDIBDEM.C
+LIB = $(FOAM_USER_LIBBIN)/libHFDIBDEM
