@@ -51,4 +51,4 @@ Note: the scripts have to be ran from terminals with sourced OpenFOAMv8
 Cite this work as
 -----------------
 
-Isoz, M.; Šourek, M.; Studeník, O.; Kočí, P.: Hybrid fictitious domain-immersed boundary solver coupled with discrete element method for simulations of flows laden with arbitrarily-shaped particles. Submitted to Computers & Chemical Engineering, 2021.
+Isoz, M.; Šourek, M.; Studeník, O.; Kočí, P.: Hybrid fictitious domain-immersed boundary solver coupled with discrete element method for simulations of flows laden with arbitrarily-shaped particles. Submitted to Computers & Fluids, 2021.
