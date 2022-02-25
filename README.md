@@ -1,5 +1,10 @@
 # openHFDIB-DEM
 
+!!!
+Updated and maintained code is available from:
+https://github.com/MartinKotoucSourek/openHFDIB-DEM
+!!!
+
 Implementation of the Hybrid Fictitious Domain-Immersed Boundary (HFDIB)
 coupled with the Discrete Element Method (DEM) by
 
