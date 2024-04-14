@@ -2,7 +2,7 @@
 
 !!!
 Updated and maintained code is available from:
-https://github.com/MartinKotoucSourek/openHFDIB-DEM
+https://github.com/techMathGroup/openHFDIB-DEM
 !!!
 
 Implementation of the Hybrid Fictitious Domain-Immersed Boundary (HFDIB)
